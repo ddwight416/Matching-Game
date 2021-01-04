@@ -16,6 +16,7 @@ const mainmenu = (props) =>
             </div>
             <img src='/Images/Yuna.jpg' className="inline-flex mr-20"></img>
             <img src='/Images/Vanille.jpg' className="inline-flex mr-20"></img>
+            <footer className="text-sm text-center font-bold">&copy; Copyright {2021}, Dont'e Dwight. All Rights Reserved</footer>
         </div>
     )
 }
