@@ -5,7 +5,7 @@ const Instructions = (props) => {
             <header className= "font-bold text-5xl">Instructions</header>
             <ul className="text-3xl">
                 <li className="py-5">Click on the cards to flip them.</li>
-                <li className="py-5">You can Flip them Any Number of Times.</li>
+                <li className="py-5">You can Flip them only once.</li>
                 <li className="py-5">You must match two cards that look exactly the same.</li>
                 <li className="py-5 font-bold text-blue-800">Final Fanstasy matches help earn points</li>
                 <li className="py-5 font-bold text-green-800">Kingdom Hearts cards make you lose Grade, matches make you lose even more</li>
